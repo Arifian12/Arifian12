@@ -15,15 +15,14 @@ Always exploring the intersection of **data, code, and impact**.
 
 --- 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Arifian12&theme=radical&hide_border=true)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Arifian12)](https://git.io/streak-stats)
-
 ---
-<!--
+
 ## 📬 Let's Connect!
 
 <a href="https://www.linkedin.com/in/muhammad-arifian/" target="_blank">
   <img src="" alt="LinkedIn Badge"/>
 </a>
+<!--
 <a href="https://www.kaggle.com/ryanbesto" target="_blank">
   <img src="" alt="Kaggle Badge"/>
 </a>
