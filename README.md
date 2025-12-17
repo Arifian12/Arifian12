@@ -15,6 +15,7 @@ Always exploring the intersection of **data, code, and impact**.
 
 --- 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Arifian12&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Arifian12)](https://git.io/streak-stats)
 
 ---
 <!--
